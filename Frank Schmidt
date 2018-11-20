@@ -1,0 +1,11 @@
+Looking to use Chromeduino as an introduction to Arduino and various hardware (boards et.) and Chromebooks for schools,
+after school clubs and "discovery centers". I have downloaded the first two "Examples" repositories from Arduino Create Web Editor
+to file folders which include the .ino sketches for "Basics" under Examples. And also include Fritizing diagrams of the R3 Uno. 
+I have proven to myself 
+that these file folders can be uploaded to a Google Chrome repository and from there installed on Chromeduino, at least if no complex 
+libraries are included in the sketches and then uploaded sucessfully to my Arduino Uno R3 using a  Chromebook and Chromeduino. 
+I will now proceed to post these first two Basics (1) and (2) folders on the Google Drive account and share them here. There maybe time
+to make YouTube videos tutorials and a sub-Reddit community on this method. 
+
+Thank you for developing Chromeduino. I would like to ask
+if there are other boards supported besides the Uno R-3 and which , if any libraries are supported. 
